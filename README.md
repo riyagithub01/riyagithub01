@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
-<h3 align="center">A passionate problem solver and frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate problem solver and frontend developer from India</h3>
 
 ---
 
-🌱 Currently learning **Java**  
+🌱 Currently learning **Java and mern**  
 💬 Ask me about **C++ | Python | Data Science**  
 📫 Reach me at: **riyarajput542002@gmail.com**  
-📄 [Check out my Resume](https://drive.google.com/drive/u/0/my-drive)  
+📄 [Check out my Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1ieifj5uLLGfdOF5Pz-jsBCB9EsIkAm-y/view?usp=drive_link))  
 ⚡ Fun fact: _I think I'm a speaker_ 🎙️  
 
 ---
