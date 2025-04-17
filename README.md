@@ -42,4 +42,4 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=riyagithub01)
+<img src="https://komarev.com/ghpvc/?username=riyagithub01&style=flat-square&color=blue" alt="Visitor Count"/>
